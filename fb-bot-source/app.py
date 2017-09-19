@@ -4,7 +4,7 @@ from utils import wit_response,get_news_elements
 from pymessenger import Bot
 
 app=Flask(__name__)
-bot=Bot('EAAV5BHntrZAEBACaUGSXBj1UcNnP7qJAZBHzlqfZBfIhKdR7yQaDc0ADBsdSp2YO7orXBrHtO7ZB92e1SBkDZClWwStOtd7ZBxJ1xpMjgV4XnZAmPSNZCMtmoLmIji5VHOBRJHMKLbk5A5B0UIap2HxPbNjpS1cjNEAN0XUbfM8pbQZDZD')
+bot=Bot('ACCESS_TOKEN')
 
 
 @app.route('/',methods=['GET'])
