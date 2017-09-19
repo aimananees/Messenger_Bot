@@ -1,7 +1,7 @@
 from wit import Wit
 from gnewsclient import gnewsclient
 
-access_token="MCA2L7CGT42QDOZGYZHEVF32ZVTYHN4T"
+access_token="ACESS_TOKEN"
 
 client=Wit(access_token=access_token)
 def wit_response(message_text):
