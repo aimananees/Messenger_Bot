@@ -1,2 +1,2 @@
 # Messenger_Bot
-News Messenger Bot that natural language processing
+News Messenger Bot that supports natural language processing
